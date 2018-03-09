@@ -6,3 +6,4 @@ Achieves top ~1.8% using postprocessing from https://www.kaggle.com/divrikwicky/
 TODO:
 - Organize code
 - Write a more descriptive readme
+- Attempt deep fusion LSTM for higher accuracy
