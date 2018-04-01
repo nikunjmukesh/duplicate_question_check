@@ -7,3 +7,8 @@ TODO:
 - Organize code
 - Write a more descriptive readme
 - Attempt deep fusion LSTM for higher accuracy
+
+  Contributors:
+  - github.com/tallestfinder
+  - github.com/nikunjmukesh
+  - github.com/nyxkh
